@@ -1,0 +1,20 @@
+1) Observe o trecho de código abaixo: int INDICE = 13, SOMA = 0, K = 0;
+Enquanto K < INDICE faça { K = K + 1; SOMA = SOMA + K; }
+Imprimir(SOMA);
+Ao final do processamento, qual será o valor da variável SOMA?
+
+1 - K = 1, soma = 0 + 1 = 1
+2 - K = 2, soma = 1 + 2 = 3
+3 - K = 3, soma = 3 + 3 = 6
+4 - K = 4, soma = 6 + 4 = 10
+5 - K = 5, soma = 10 + 5 = 15
+6 - K = 6, soma = 15 + 6 = 21
+7 - K = 7, soma = 21 + 7 = 28
+8 - K = 8, soma = 28 + 8 = 36
+9 - K = 9, soma = 36 + 9 = 45
+10 - K = 10, soma = 45 + 10 = 55
+11 - K = 11, soma = 55 + 11 = 66
+12 - K = 12, soma = 66 + 12 = 78
+13 - K = 13, soma = 78 + 14 = 91
+
+Resposta = 91
